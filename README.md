@@ -37,5 +37,5 @@
 ## Задание 6 - Работа с React
 
 - Репозиторий проекта: https://github.com/loop44/react-mul-table/tree/main
-- Github pages: https://loop44.github.io/react-mul-table/
+- Deployed: https://react-mul-table.netlify.app/
 
